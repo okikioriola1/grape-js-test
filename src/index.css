@@ -1,0 +1,26 @@
+:root {
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+html body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  height: 100%;
+  transition: 0.3s;
+  font-family: "Hanken Grotes";
+  background:  #FFF;;
+  position: relative;
+}
+
+
+
+
